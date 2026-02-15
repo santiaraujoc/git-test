@@ -1,6 +1,7 @@
 from multiplicacion import multiplicarNumeros
 from division import dividirNumeros
 
+print("Propiedad de OtroServer.github")
 print("Ingrese Numero 1: ")
 num1 = int(input())
 print("Ingrese Numero 2: ") 
