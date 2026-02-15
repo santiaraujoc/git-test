@@ -1,3 +1,5 @@
+from multiplicacion import multiplicarNumeros
+
 print("Ingrese Numero 1: ")
 num1 = int(input())
 print("Ingrese Numero 2: ") 
