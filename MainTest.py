@@ -1,4 +1,5 @@
 from multiplicacion import multiplicarNumeros
+from suma import sumarNumeros
 
 print("Propiedad de OtroServer.github")
 print("Ingrese Numero 1: ")
