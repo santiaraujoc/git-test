@@ -1,4 +1,5 @@
 from multiplicacion import multiplicarNumeros
+from division import dividirNumeros
 
 print("Ingrese Numero 1: ")
 num1 = int(input())
