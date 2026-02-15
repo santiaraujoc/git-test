@@ -1,3 +1,9 @@
+from suma import *
+from resta import *
+from multiplicacion import *
+from division import *
+
+
 print("Ingrese Numero 1: ")
 num1 = int(input())
 print("Ingrese Numero 2: ") 
