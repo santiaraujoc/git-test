@@ -1,8 +1,12 @@
 from multiplicacion import multiplicarNumeros
+from division import dividirNumeros
 
+<<<<<<< HEAD
 
 from suma import sumarNumeros
 
+=======
+>>>>>>> main
 print("Propiedad de OtroServer.github")
 print("Ingrese Numero 1: ")
 num1 = int(input())
